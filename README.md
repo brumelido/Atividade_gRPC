@@ -13,3 +13,4 @@ Este repositório contém a implementação de uma atividade prática realizada 
 ✅ gRPC (Google Remote Procedure Call)
 ✅ Protocol Buffers (.proto)
 ✅ AWS EC2 (para comunicação distribuída)
+# Atividade_gRPC
